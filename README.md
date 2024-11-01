@@ -4,5 +4,15 @@ c3vm (c3 Version Manager) lets you easily install/upgrade between different vers
 # Installation
 
 # Usage 
+```
+        \\-h, --help                Display this help and exit.
+        \\-v, --version             Output version information and exit.
+        \\-i, --install <version>   Install a spesific version
+        \\-l, --list                List's avaible versions
+        \\-u, --use <vesion>        Use spesific vesion
+        \\Example:
+        \\3cvm --install master
+        \\3cvm --use master
+```
 
 # Contribition
