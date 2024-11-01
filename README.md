@@ -9,7 +9,7 @@ c3vm (c3 Version Manager) lets you easily install/upgrade between different vers
 -v, --version             Output version information and exit.
 -i, --install <version>   Install a spesific version
 -l, --list                List's avaible versions
--u, --use <vesion>        Use spesific vesion
+-u, --use <version>        Use spesific vesion
 Example:
 3cvm --install master
 3cvm --use master
